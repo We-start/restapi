@@ -1,0 +1,20 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/vinod120/restapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinod120/restapi/issues"
+  },
+  "homepage": "https://github.com/vinod120/restapi#readme"
+}
