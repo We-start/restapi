@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/vinod120/restapi.git"
+    "url": "https://@github.com/vinod120/restapi.git"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/vinod120/restapi/issues"
   },
-  "homepage": "https://github.com/vinod120/restapi#readme"
+  "homepage": "https://github.com/vinod120/restapi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0"
+  }
 }
